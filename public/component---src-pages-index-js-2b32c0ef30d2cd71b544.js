@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return o}));var l=t("q1tI"),a=t.n(l),c=t("Wbzz");function o(){return a.a.createElement("div",null,a.a.createElement("h1",null,"hello world"),a.a.createElement("p",null,"hello "),a.a.createElement(c.a,{to:"/contact"},"go contact"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-2b32c0ef30d2cd71b544.js.map
